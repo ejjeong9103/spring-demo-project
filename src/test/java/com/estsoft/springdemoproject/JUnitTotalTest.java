@@ -14,16 +14,19 @@ public class JUnitTotalTest {
     }
 
     @Test
+    @Disabled
     public void test1() {
         System.out.println("test1");
     }
 
     @Test
+    @Disabled
     public void test2() {
         System.out.println("test2");
     }
 
     @Test
+    @Disabled
     public void test3() {
         System.out.println("test3");
     }
